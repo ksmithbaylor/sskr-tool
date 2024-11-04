@@ -1,7 +1,7 @@
 [package]
 name = "sskr-tool"
 authors = ["Kevin Smith <ksmithbaylor@gmail.com>"]
-version = "0.1.1"
+version = "0.1.2"
 license = "MIT"
 description = "A tool for splitting and recovering BIP-39 mnemonics according to the SSKR standard"
 repository = "https://github.com/ksmithbaylor/sskr-tool"
